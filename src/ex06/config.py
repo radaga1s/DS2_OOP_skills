@@ -19,5 +19,5 @@ ind_err = 'The file path was not passed in arguments'
 not_found_err = 'The file was not found'
 tg_message_err = '“The report hasn’t been created due to an error”'
 tg_message_ok = '“The report has been successfully created”'
-url = f'https://api.telegram.org/bot:MYTOKEN/sendMessage'
+url = f'https://api.telegram.org/bot007:MYTOKEN/sendMessage'
 params = {'chat_id': -1, 'text': tg_message_err}
